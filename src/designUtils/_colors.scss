@@ -1,4 +1,6 @@
 
-$highlight-gray: #858585;
-$shadow-gray: #B6B6B6;
-$background-gray: #EFEFEF;
+%gray-and-indented {
+    padding-left: 15px;
+    font-size: 14px;
+    color: $highlight-gray;
+}
